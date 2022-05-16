@@ -1,0 +1,8 @@
+ipvanish-IL-Tel-Aviv-tlv-c01.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c04.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c05.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c06.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c07.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c08.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c09.ovpn
+ipvanish-IL-Tel-Aviv-tlv-c10.ovpn
